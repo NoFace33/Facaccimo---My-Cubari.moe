@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1701442125",
       "groups": {
-        "": "https://cubari.moe/read/imgur/IAHkhrt/1/"
+        "": "/proxy/api/imgur/chapter/IAHkhrt"
       }
     },
     "208": {
@@ -18,28 +18,15 @@
       "volume": "",
       "last_updated": "1701442229",
       "groups": {
-        "": [
-          "https://cubari.moe/read/imgur/aj8iFK5/1/1/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/2/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/3/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/4/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/5/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/6/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/7/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/8/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/9/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/10/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/11/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/12/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/13/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/14/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/15/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/16/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/17/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/18/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/19/",
-          "https://cubari.moe/read/imgur/aj8iFK5/1/20/"
-        ]
+        "": "/proxy/api/imgur/chapter/aj8iFK5"
+      }
+    },
+    "209": {
+      "title": "209",
+      "volume": "",
+      "last_updated": "1701443676",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CHcTVyN"
       }
     }
   }
